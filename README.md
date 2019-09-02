@@ -15,7 +15,7 @@ We're going to explore the Foursquare API and learn how to read API documentatio
 
 The first thing we want to do is install a couple of tools to make our lives a lot easier.
 
-[Postman](https://www.getpostman.com/) is a Chrome app that we can use to easily make API requests. Check out the docs and install the app from [here](https://www.getpostman.com/docs/).
+[Postman](https://www.getpostman.com/) is an app availble for Mac OS, Windows and Linux that we can use to easily make API requests. Check out the docs and install the app from [here](https://www.getpostman.com/downloads/).
 
 [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) is a Chrome extension that will automatically make JSON data much more readable in Chrome.
 
